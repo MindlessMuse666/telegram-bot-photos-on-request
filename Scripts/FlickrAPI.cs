@@ -1,6 +1,6 @@
 ﻿using FlickrNet;
 
-namespace telegram_bot_photos_on_request;
+namespace telegram_bot_photos_on_request.Scripts;
 
 public static class FlickrAPI
 {

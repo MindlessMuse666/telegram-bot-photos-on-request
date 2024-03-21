@@ -3,7 +3,7 @@ using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Polling;
 
-namespace telegram_bot_photos_on_request;
+namespace telegram_bot_photos_on_request.Scripts;
 
 public class Bot
 {
